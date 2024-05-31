@@ -1,10 +1,18 @@
 [
         {
+           "code":"00000001",
            "image":"https://kchurch.test/assets/img/uploads/logos/light.png",
-           "name":"All Access pass ( 40% Black Friday Discount )",
-           "description":"Get all our plugins. Both current and future plugins. You also get 50% off on all mobile apps. NOW ON BLACK FRIDAY DISCOUNT OF 40%\n",
-           "latestVersion":"1.0",
-           "price":" $\u03361\u03366\u03360\u0336 - $96",
-           "published":true
+           "name":"All Access pass",
+           "description": "Get all our plugins. Both current and future plugins.\n You also get 50% off on all mobile apps.",
+           "latestVersion": "1.0",
+           "price": null
+        },
+        {
+           "code": "00000002",
+           "image": "https://kchurch.test/assets/img/uploads/logos/dark.png",
+           "name": "All Access pass ( 50% Black Friday Discount )",
+           "description": "Get all our plugins. Both current and future plugins. You also get 50% off on all mobile apps. NOW ON BLACK FRIDAY DISCOUNT OF 40%\n",
+           "latestVersion": "2.0",
+           "price": " R$\u03361\u03366\u03360\u0336 - R$50,00/Unico"
         }
 ]
