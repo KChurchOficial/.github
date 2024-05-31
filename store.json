@@ -3,14 +3,14 @@
            "code":"00000001",
            "image": "https://kchurch.test/assets/img/uploads/logos/light.png",
            "name": "Site",
-           "description": "Disponibilize para o publico uma pagina para obter informações sobre a instituição.",
+           "description": "Crie uma página informativa acessível ao público, onde possam encontrar detalhes sobre a instituição.",
            "price": null
         },
         {
            "code": "00000002",
            "image": "https://kchurch.test/assets/img/uploads/logos/dark.png",
            "name": "Sistema EAD",
-           "description": "Disponibilize uma area educacional para seus membros estudar e aprender.",
+           "description": "Crie uma área educacional dedicada para que seus membros possam estudar e adquirir novos conhecimentos.",
            "price": " R$\u03361\u03366\u03360\u0336 - R$50,00/Unico"
         }
 ]
